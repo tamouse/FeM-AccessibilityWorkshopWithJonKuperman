@@ -19,6 +19,21 @@ Repo: [jkup/learn-a11y A web app for learning web accessibility](https://github.
 
 [Accessible Color Palette Evaluator](https://accessibility.oit.ncsu.edu/tools/color-contrast/)
 
+[Accessibility Developer Tools - Chrome Web Store](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
+
+[Tenon.io](https://tenon.io/)
+
+> We believe...
+> in a web accessible to everyone. Tenon.io exists because universal
+> design is hard. We create software to help you reach beyond
+> compliance and build superior experiences for everyone.
+
+[tota11y  an accessibility visualization toolkit](https://khan.github.io/tota11y/)
+
+[Accessibility Evaluation Toolbar  Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/) [Firefox]
+
+
+
 
 ## Videos
 
@@ -45,6 +60,10 @@ player to see the videos as they are cut.
 	this is the checklist Jon is going through in the workshop.
 
 * Vision Simulator [NoCoffee - Chrome Web Store](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
+
+* [AngularJS API ngAria](https://docs.angularjs.org/api/ngAria#!)
+
+* [react-a11y](https://www.npmjs.com/package/react-a11y)
 
 
 
@@ -88,3 +107,7 @@ Jeremy E: Some helpful ARIA examples here http://heydonworks.com/practical_aria_
 ### Fri Nov 18 13:29-ish 2016
 
 Jack N: @Dinesh, if I recall correctly ARIA itself doesn't cause the accessibility tree to be updated. It can announce that a change has occurred. For example, if an AJAX operation occurs, the event happening updates the DOM and accessibility tree. An ARIA live region can be wrapped around it to catch the change and notify a screen reader user.
+
+### Fri Nov 18 14:00:17 2016
+
+Jack N: (7 minutes ago) Also useful to select color with the correct level of contrast for a specific background color, http://colorsafe.co/.
