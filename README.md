@@ -66,3 +66,7 @@ player to see the videos as they are cut.
 ### Fri Nov 18 11:20:27 2016
 
 - Jack N: ARIA describedby, https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-describedby_attribute
+
+### Fri Nov 18 13:25-ish 2016
+
+Jeremy E: Some helpful ARIA examples here http://heydonworks.com/practical_aria_examples/
