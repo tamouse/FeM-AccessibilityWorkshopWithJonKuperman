@@ -65,6 +65,12 @@ player to see the videos as they are cut.
 
 * [react-a11y](https://www.npmjs.com/package/react-a11y)
 
+* [Deque Systems  Web Accessibility  Software, Training, and Consulting](http://www.deque.com/)
+
+* [Accessible Colors  WCAG 2.0 AA and AAA color contrast checker](http://accessible-colors.com/)
+
+
+
 
 
 ### Turning on devtools experimental things in Chrome
@@ -72,6 +78,10 @@ player to see the videos as they are cut.
 - Type `about://flags` in the address bar
 - Enable Developer Tools experiments
 - **Restart** the browser
+
+### other people
+
+* [Jennison Asuncion: @Jennison on Twitter](https://twitter.com/Jennison)
 
 
 ## From the chatroom
@@ -101,13 +111,26 @@ player to see the videos as they are cut.
 
 ### Fri Nov 18 13:25-ish 2016
 
-Jeremy E: Some helpful ARIA examples here http://heydonworks.com/practical_aria_examples/
+- Jeremy E: Some helpful ARIA examples here http://heydonworks.com/practical_aria_examples/
 
 
 ### Fri Nov 18 13:29-ish 2016
 
-Jack N: @Dinesh, if I recall correctly ARIA itself doesn't cause the accessibility tree to be updated. It can announce that a change has occurred. For example, if an AJAX operation occurs, the event happening updates the DOM and accessibility tree. An ARIA live region can be wrapped around it to catch the change and notify a screen reader user.
+- Jack N: @Dinesh, if I recall correctly ARIA itself doesn't cause the accessibility tree to be updated. It can announce that a change has occurred. For example, if an AJAX operation occurs, the event happening updates the DOM and accessibility tree. An ARIA live region can be wrapped around it to catch the change and notify a screen reader user.
 
 ### Fri Nov 18 14:00:17 2016
 
-Jack N: (7 minutes ago) Also useful to select color with the correct level of contrast for a specific background color, http://colorsafe.co/.
+- Jack N: (7 minutes ago) Also useful to select color with the correct level of contrast for a specific background color, http://colorsafe.co/.
+
+### Fri Nov 18 15:15:16 2016
+
+- Jeremy E: https://www.udacity.com/course/web-accessibility--ud891
+- Jeremy E: A11y Slack channel http://web-a11y.herokuapp.com/
+- Jeremy E: Design Systems has a great a11y channel in the Slack team http://designsystems.herokuapp.com/
+
+### Fri Nov 18 15:26:05 2016
+
+
+- Jack N (7 minutes ago): article about accessibility for UX and design, http://www.uxmatters.com/mt/archives/2014/09/user-experience-and-accessibility-working-with-visual-designers.php
+- Jack N (7 minutes ago): 7 Things Every Designer Needs to Know about Accessibility, https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.thiyzto8l
+- Jack N (5 minutes ago): Web Accessibility for Designers, http://webaim.org/resources/designers/
