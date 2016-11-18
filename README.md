@@ -15,6 +15,10 @@ Slides: [The Web is for Everyone - Google Slides](https://docs.google.com/presen
 
 Repo: [jkup/learn-a11y A web app for learning web accessibility](https://github.com/jkup/learn-a11y)
 
+[WCAG Overview  Web Accessibility Initiative  W3C](https://www.w3.org/WAI/intro/wcag)
+
+[Accessible Color Palette Evaluator](https://accessibility.oit.ncsu.edu/tools/color-contrast/)
+
 
 ## Videos
 
