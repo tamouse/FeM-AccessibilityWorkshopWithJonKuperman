@@ -44,8 +44,23 @@ player to see the videos as they are cut.
 
 ### Fri Nov 18 09:47:52 2016
 
-Jack N: The W3C does a good job showing the breakdown of which WCAG guidelines apply to each role .https://www.w3.org/community/wai-engage/wiki/Accessibility_Responsibility_Breakdown
+- Jack N: The W3C does a good job showing the breakdown of which WCAG guidelines apply to each role .https://www.w3.org/community/wai-engage/wiki/Accessibility_Responsibility_Breakdown
 
-Jack N: Here's a useful screen reader compatibility breakdown, http://www.powermapper.com/tests/screen-readers/aria/.
+- Jack N: Here's a useful screen reader compatibility breakdown, http://www.powermapper.com/tests/screen-readers/aria/.
 
-Daniel D: this is also a thing --> http://vimium.github.io/Jack N 10 minutes ago
+- Daniel D: this is also a thing --> http://vimium.github.io/
+
+### Fri Nov 18 10:20-ish 2016
+
+- Mike N: Do you have a stance on <button> vs <input type="submit"/> for submit buttons?
+- Mike N: also enter key on an <input> w/in the form will submit the form IIRC
+- Mike N: (will not work with a <button onClick=...> )
+- Jack N: A great article about buttons vs. links. https://marcysutton.com/links-vs-buttons-in-modern-web-applications/
+
+### Fri Nov 18 10:58:15 2016
+
+- Victor M: this is really handy: http://keycode.info/
+
+### Fri Nov 18 11:20:27 2016
+
+- Jack N: ARIA describedby, https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-describedby_attribute
