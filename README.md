@@ -40,6 +40,11 @@ player to see the videos as they are cut.
   * [WebAIM WebAIMs WCAG 2.0 Checklist - for HTML documents](http://webaim.org/standards/wcag/checklist)
 	this is the checklist Jon is going through in the workshop.
 
+### Turning on devtools experimental things in Chrome
+
+- Type `about://flags` in the address bar
+- Enable Developer Tools experiments
+- **Restart** the browser
 
 
 ## From the chatroom
@@ -70,3 +75,8 @@ player to see the videos as they are cut.
 ### Fri Nov 18 13:25-ish 2016
 
 Jeremy E: Some helpful ARIA examples here http://heydonworks.com/practical_aria_examples/
+
+
+### Fri Nov 18 13:29-ish 2016
+
+Jack N: @Dinesh, if I recall correctly ARIA itself doesn't cause the accessibility tree to be updated. It can announce that a change has occurred. For example, if an AJAX operation occurs, the event happening updates the DOM and accessibility tree. An ARIA live region can be wrapped around it to catch the change and notify a screen reader user.
