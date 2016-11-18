@@ -69,6 +69,7 @@ player to see the videos as they are cut.
 
 * [Accessible Colors  WCAG 2.0 AA and AAA color contrast checker](http://accessible-colors.com/)
 
+* [CSUN Conference 2016 View Sessions](http://www.csun.edu/cod/conference/2016/sessions/index.php/public/conf_sessions/)
 
 
 
