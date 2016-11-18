@@ -32,3 +32,6 @@ player to see the videos as they are cut.
 
 
 ## Other stuff
+
+* [jkup/shortcut - A keyboard shortcut library](https://github.com/jkup/shortcut)
+  Jon's open source shortcut library
