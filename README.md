@@ -40,6 +40,10 @@ player to see the videos as they are cut.
   * [WebAIM WebAIMs WCAG 2.0 Checklist - for HTML documents](http://webaim.org/standards/wcag/checklist)
 	this is the checklist Jon is going through in the workshop.
 
+* Vision Simulator [NoCoffee - Chrome Web Store](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
+
+
+
 ### Turning on devtools experimental things in Chrome
 
 - Type `about://flags` in the address bar
